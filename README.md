@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Khushi Raheja  
 
 🚀 Aspiring AI Engineer | Space-Tech Enthusiast | Community Builder  
