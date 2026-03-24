@@ -66,12 +66,6 @@
 
 ---
 
-## 📫 Connect With Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/khushi-raheja-tech  
-- 📧 Email: khushiraheja369@gmail.com  
-
----
-
 ⭐ *“Building at the intersection of AI, Space & Community.”*  
 
 
