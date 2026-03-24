@@ -1,32 +1,96 @@
 # 💫 About Me:
-👩‍💻 I’m currently working on
-AI-powered solutions and Agentic AI systems
-Automation workflows to improve productivity and scalability
-Space-tech inspired AI applications and data-driven projects
-👯 I’m looking to collaborate on
-AI/ML projects (especially real-world and impactful use-cases)
-Tech + community building initiatives
-Space-tech, research, and innovation-driven projects
-Open-source AI tools and automation systems
-🤝 I’m looking for help with
-Advanced AI/ML model building and deployment
-Scaling AI projects to real-world applications
-Research opportunities in AI + Space Technology
-Networking with industry experts and innovators
-🌱 I’m currently learning
-Machine Learning & Deep Learning fundamentals
-Agentic AI and AI automation frameworks
-Data analysis and real-world AI applications
-System design and scalable tech solutions
-💬 Ask me about
-AI, automation, and productivity systems
-Building communities from scratch (800+ members 🚀)
-Organizing webinars, collaborations & tech events
-Space science, asteroid detection & research work
-⚡ Fun fact
-Built a space community of 800+ enthusiasts from scratch 🌌
-Worked on real asteroid detection projects as a NASA Citizen Scientist
-Love blending AI + Space + Community building
+# 👋 Hi, I'm Khushi Raheja  
+
+🚀 Aspiring AI Engineer | Space-Tech Enthusiast | Community Builder  
+
+---
+
+## 👩‍💻 About Me  
+- 🎓 CSE Undergraduate at Chandigarh University  
+- 🤖 Passionate about Artificial Intelligence & Automation  
+- 🌌 Deep interest in Space Science & Intelligent Space Technologies  
+- 🧠 Love building communities, systems & impactful projects  
+
+---
+
+## 🚀 What I'm Working On  
+- AI-powered applications & Agentic AI systems  
+- Automation workflows for productivity  
+- Space-tech + AI based innovative projects  
+
+---
+
+## 👯 Looking to Collaborate On  
+- AI/ML real-world projects  
+- Open-source contributions  
+- Tech + community initiatives  
+- Space-tech & research-driven ideas  
+
+---
+
+## 🤝 Looking for Help With  
+- Advanced AI/ML & Deep Learning  
+- Deploying scalable AI systems  
+- Research opportunities in AI + Space  
+- Networking with industry experts  
+
+---
+
+## 🌱 Currently Learning  
+- Machine Learning & Deep Learning  
+- Agentic AI frameworks  
+- Data analysis & real-world AI applications  
+- System design & scalable architectures  
+
+---
+
+## 💬 Ask Me About  
+- AI & Automation  
+- Community building (built 800+ members 🚀)  
+- Webinars, collaborations & outreach  
+- Space science & asteroid detection  
+
+---
+
+## ⚡ Fun Fact  
+- 🌌 Built a space community of 800+ enthusiasts  
+- 🛰️ Worked on asteroid detection as a NASA Citizen Scientist  
+- 🎤 Organized webinars & collaborated with industry experts  
+
+---
+
+## 🛠️ Tech Stack  
+- 💻 Python  
+- 🤖 AI & Automation  
+- 📊 Research & Data Analysis  
+- 🗣️ Public Speaking & Communication  
+
+---
+
+## 📈 Experience Highlights  
+
+### 🎓 Director of Education – Origin Antares® Inc.  
+- Led education wing strategy & execution  
+- Organized webinars & expert sessions  
+- Built collaborations & partnerships  
+
+### 🚀 Co-Founder – Astroflux  
+- Built 800+ member space community  
+- Conducted events, sessions & Space MUNs  
+
+### 🛰️ NASA Citizen Scientist  
+- Worked on asteroid detection projects  
+- Analyzed real-world telescope datasets  
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/khushi-raheja-tech  
+- 📧 Email: khushiraheja369@gmail.com  
+
+---
+
+⭐ *“Building at the intersection of AI, Space & Community.”*  
 
 
 ## 🌐 Socials:
