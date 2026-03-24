@@ -1,5 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working on AI <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👩‍💻 I’m currently working on
+AI-powered solutions and Agentic AI systems
+Automation workflows to improve productivity and scalability
+Space-tech inspired AI applications and data-driven projects
+👯 I’m looking to collaborate on
+AI/ML projects (especially real-world and impactful use-cases)
+Tech + community building initiatives
+Space-tech, research, and innovation-driven projects
+Open-source AI tools and automation systems
+🤝 I’m looking for help with
+Advanced AI/ML model building and deployment
+Scaling AI projects to real-world applications
+Research opportunities in AI + Space Technology
+Networking with industry experts and innovators
+🌱 I’m currently learning
+Machine Learning & Deep Learning fundamentals
+Agentic AI and AI automation frameworks
+Data analysis and real-world AI applications
+System design and scalable tech solutions
+💬 Ask me about
+AI, automation, and productivity systems
+Building communities from scratch (800+ members 🚀)
+Organizing webinars, collaborations & tech events
+Space science, asteroid detection & research work
+⚡ Fun fact
+Built a space community of 800+ enthusiasts from scratch 🌌
+Worked on real asteroid detection projects as a NASA Citizen Scientist
+Love blending AI + Space + Community building
 
 
 ## 🌐 Socials:
