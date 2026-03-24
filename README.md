@@ -4,12 +4,11 @@
 
 ---
 
-## 👩‍💻 About Me  
-- 🎓 CSE Undergraduate at Chandigarh University  
+## 👩‍💻 About Me   
 - 🤖 Passionate about Artificial Intelligence & Automation  
 - 🌌 Deep interest in Space Science & Intelligent Space Technologies  
-- 🧠 Love building communities, systems & impactful projects  
-
+- 🧠 Love building communities, systems & impactful projects
+  
 ---
 
 ## 🚀 What I'm Working On  
@@ -23,15 +22,7 @@
 - AI/ML real-world projects  
 - Open-source contributions  
 - Tech + community initiatives  
-- Space-tech & research-driven ideas  
-
----
-
-## 🤝 Looking for Help With  
-- Advanced AI/ML & Deep Learning  
-- Deploying scalable AI systems  
-- Research opportunities in AI + Space  
-- Networking with industry experts  
+- Space-tech & research-driven ideas   
 
 ---
 
@@ -55,14 +46,6 @@
 - 🌌 Built a space community of 800+ enthusiasts  
 - 🛰️ Worked on asteroid detection as a NASA Citizen Scientist  
 - 🎤 Organized webinars & collaborated with industry experts  
-
----
-
-## 🛠️ Tech Stack  
-- 💻 Python  
-- 🤖 AI & Automation  
-- 📊 Research & Data Analysis  
-- 🗣️ Public Speaking & Communication  
 
 ---
 
